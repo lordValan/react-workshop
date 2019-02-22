@@ -15,6 +15,7 @@
         "classnames": "2.2.6",
         "react": "16.8.1",
         "react-dom": "16.8.1",
+        "react-tilt": "^0.1.4",
         "react-vanilla-tilt": "1.0.0",
         "sanitize.css": "8.0.0"
     },

@@ -221,6 +221,8 @@
                 height: 32px;
                 opacity: 0.3;
                 cursor: pointer;
+                background-color: transparent;
+                border: none;
 
                 &:hover {
                     opacity: 1;
