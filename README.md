@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/lectrum/react-workshop" target="_blank" style="font-size: 24px;">Source</a>
+    <a href="https://github.com/lectrum/react-workshop" target="_blank">Source</a>
 </div>
 
 <h1 align="center">
